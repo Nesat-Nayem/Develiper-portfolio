@@ -1,0 +1,39 @@
+body{
+    font-family: 'Merriweather', serif;
+    margin: 0;
+
+}
+h1{
+    font-size: 40px;
+}
+.top_area{
+background-image:url(images/top-banner.png);
+background-repeat: no-repeat;
+}
+
+.color_text{
+    color:hotpink;
+}
+
+.hef_width{
+width: 50%;
+padding-left: 7%;
+}
+
+.hef_width img{
+    width: 90%;
+}
+
+.flexeble_area{
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.botton{
+    background-image: linear-gradient(indianred, tomato);
+    padding: 10px 40px;
+    text-decoration: none;
+    border-radius: 10px;
+    color: white;
+    
+}
