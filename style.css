@@ -44,3 +44,29 @@ padding-left: 7%;
     background-repeat:no-repeat;
     background-position: right;
 }
+
+.shodo{
+    width: 36%;
+    margin-left: 5%;
+    padding-left: 40px;
+    padding-bottom: 80px;
+    box-shadow: 10px 10px 70px gray;
+    border-left:7px solid rgb(214, 81, 81)
+}
+
+#border-shado{
+    border-left:7px solid;
+    border-image:linear-gradient(darkblue, aqua);
+    border-image-slice: 1;
+    
+}
+
+.expreance-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+footer p{
+    text-align: center;
+}
